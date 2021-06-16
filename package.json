@@ -1,8 +1,13 @@
 {
+  "name": "semantic-release-with-github-actions",
+  "version": "0.0.0-development",
+  "repository": "https://github.com/ajeetvolvo/release_noote",
+  "main": "index.js",
   "devDependencies": {
-    "semantic-release": "^17.4.4",
-    "version": "0.0.0-development",
-    "repository": "https://github.com/ajeetvolvo/release_noote"
-
+    "jest": "^25.1.0",
+    "semantic-release": "^17.0.4"
+  },
+  "scripts": {
+    "test": "jest test.js"
   }
 }

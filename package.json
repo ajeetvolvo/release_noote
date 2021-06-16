@@ -1,0 +1,16 @@
+{
+  "name": "semantic-release-with-github-actions",
+  "version": "3.0.0-development",
+  "repository": "https://github.com/volvo-cars/voc-android",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^25.1.0",
+    "semantic-release": "^17.4.3"
+  },
+  "scripts": {
+    "test": "jest test.js"
+  },
+  "dependencies": {
+    "semantic-release-with-github-actions": "^1.1.0"
+  }
+}

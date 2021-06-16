@@ -1,7 +1,7 @@
 {
   "name": "semantic-release-with-github-actions",
   "version": "3.0.0-development",
-  "repository": "https://github.com/release_noote",
+  "repository": "https://github.com/ajeetvolvo/release_noote",
   "main": "index.js",
   "devDependencies": {
     "jest": "^25.1.0",

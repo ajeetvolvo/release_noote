@@ -7,9 +7,6 @@
     "jest": "^25.1.0",
     "semantic-release": "^17.4.3"
   },
-  "scripts": {
-    "test": "jest test.js"
-  },
   "dependencies": {
     "semantic-release-with-github-actions": "^1.1.0"
   }

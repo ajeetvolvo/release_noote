@@ -1,7 +1,7 @@
 {
   "name": "semantic-release-with-github-actions",
   "version": "10.0.0-development",
-  "repository": "https://github.com/ajeetvolvo/release_note_automation",
+  "repository": "https://github.com/zeke/semantic-release-with-github-action",
   "main": "index.js",
   "devDependencies": {
     "jest": "^25.1.0",
